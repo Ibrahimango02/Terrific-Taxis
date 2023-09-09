@@ -8,14 +8,5 @@
 2. Run `npm install expo`
 3. Run `npx expo start`
 
-## TODO - Kai
 
-### Front End
-- Build offer ride request (pass information through)
-- Profile Page integration with backend
-- Prettify UI (riding screen, waiting screen)
-- Waiting Screen
-
-### Back End
-- Profile request
 
